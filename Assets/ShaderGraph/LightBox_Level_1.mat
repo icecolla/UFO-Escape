@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LightBox_Level_1
+  m_Shader: {fileID: -6465566751694194690, guid: a008862ba1ec94550a452b67fdf1c6f1,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_6D755319: 1.28
+    - Vector1_8885C559: 1.77
+    m_Colors:
+    - Color_11E6E318: {r: 4, g: 3.6636395, b: 0, a: 1}
+    - Color_477DA80B: {r: 0.40111512, g: 0, b: 0.69803923, a: 0}
+    - Color_6B16D006: {r: 2, g: 0.15686275, b: 0.21960784, a: 0}
+    - Color_EF366E82: {r: 0.8862745, g: 0, b: 0.008771664, a: 1}
